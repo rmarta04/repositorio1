@@ -7,3 +7,7 @@ Miércoles
 Jueves
 
 Viernes
+
+Sábado
+
+Domingo
